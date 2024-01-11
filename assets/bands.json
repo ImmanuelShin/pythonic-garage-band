@@ -1,0 +1,19 @@
+[
+  {
+      "name": "Nirvana",
+      "members": [
+          {
+              "type": "Guitarist",
+              "name": "Kurt Cobain"
+          },
+          {
+              "type": "Bassist",
+              "name": "Krist Novoselic"
+          },
+          {
+              "type": "Drummer",
+              "name": "Dave Grohl"
+          }
+      ]
+  }
+]
